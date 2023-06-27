@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "34Mm1s0vVyqzc0ZuNum2L6S+x9F1+QTsvEP+FDDC65yTQYADirAA3w16Uho5a2ll36H8Zy/S8MUgSL/Ic/XLtA==",
+  "dgSpecHash": "Dni/Yy7Z43gMYYSG3YzL8TYsDzNEXiSiGtZWSTFrVkL5I3Q/my01dy1ZHTUW7eNd89YJeidWpTjbjCWmU3PISA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kash\\source\\repos\\Demo-App\\Demo-App\\Demo-App.csproj",
+  "projectFilePath": "D:\\.Net Project\\Web-API-.Net-Core\\Demo-App\\Demo-App\\Demo-App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kash\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Kash\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

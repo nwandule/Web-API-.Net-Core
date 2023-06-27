@@ -4200,11 +4200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kash\\source\\repos\\Demo-App\\Demo-App\\Demo-App.csproj",
+      "projectUniqueName": "D:\\.Net Project\\Web-API-.Net-Core\\Demo-App\\Demo-App\\Demo-App.csproj",
       "projectName": "Demo-App",
-      "projectPath": "C:\\Users\\Kash\\source\\repos\\Demo-App\\Demo-App\\Demo-App.csproj",
+      "projectPath": "D:\\.Net Project\\Web-API-.Net-Core\\Demo-App\\Demo-App\\Demo-App.csproj",
       "packagesPath": "C:\\Users\\Kash\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kash\\source\\repos\\Demo-App\\Demo-App\\obj\\",
+      "outputPath": "D:\\.Net Project\\Web-API-.Net-Core\\Demo-App\\Demo-App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kash\\AppData\\Roaming\\NuGet\\NuGet.Config",
